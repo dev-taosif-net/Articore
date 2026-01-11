@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="Articles.Abstractions/Articles.Abstractions.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Submission/">
+    <Project Path="Submission.API/Submission.API.csproj" />
+    <Project Path="Submission.Application/Submission.Application.csproj" />
+    <Project Path="Submission.Domain/Submission.Domain.csproj" />
+    <Project Path="Submission.Persistence/Submission.Persistence.csproj" />
+  </Folder>
+</Solution>
