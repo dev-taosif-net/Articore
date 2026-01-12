@@ -10,4 +10,8 @@
       <ProjectReference Include="..\Articles.Abstractions\Articles.Abstractions.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Behaviors\" />
+    </ItemGroup>
+
 </Project>
